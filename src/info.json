@@ -1,0 +1,39 @@
+{
+  "contribuintes": [
+    {
+      "nome": "Alexandre",
+      "quantidade": 2,
+      "cafe": "Melitta Tradicional"
+    },
+    {
+      "nome": "Carlos",
+      "quantidade": 2,
+      "cafe": "Melitta Sabor da Fazenda"
+    },
+    {
+      "nome": "Diego",
+      "quantidade": 2,
+      "cafe": "Melitta Sabor da Fazenda"
+    }
+  ],
+  "cuma": [
+    {
+      "id": 1,
+      "texto": "Para manter a urbanidade e senso de comunidade, foi decidido por assembéia extraordinária que TODOS que desejarem usufruir do delicioso e saboroso café feito no setor, deverão contribuir COMPRANDO (sim, você terá que ir ao supermercado e comprar) 2 pacotes de café."
+    },
+    {
+      "id": 2,
+      "texto": "Além disso, para que ninguém fique sobrecarregado na tarefa, é ideal que de vez em quando cada um ajude FAZENDO O CAFÉ, COLOCANDO O CAFÉ NA TÉRMICA e LIMPANDO A CAFETEIRA."
+    },
+    {
+      "id": 3,
+      "texto": "Assim, todos nós teremos o nosso café quentinho, saboroso e JUSTO."
+    }
+  ],
+  "qual": [
+    {
+      "id": 1,
+      "texto": "A fim de não aparecer um ODEBRECHT da vida, vamos manter o nível e comprar SOMENTE os cafézis abaixo :"
+    }
+  ]
+}

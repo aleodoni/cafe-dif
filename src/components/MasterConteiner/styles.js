@@ -18,7 +18,7 @@ export const MasterContainer = styled.div`
     align-items: center;
     flex: 1;
 
-    @media (max-width: 400px) {
+    @media (max-width: 500px) {
       width: 100%;
       font-size: 18px;
       font-weight: bold;

@@ -9,9 +9,9 @@ export const Container = styled.div`
 
   height: 100%;
 
-  @media (max-width: 400px) {
+  @media (max-width: 500px) {
     p {
-      font-size: 20px;
+      font-size: 16px;
       /* padding: 80px; */
       padding-bottom: 40px;
       color: #aaa;

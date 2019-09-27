@@ -9,7 +9,7 @@ export const Container = styled.div`
 
   height: 100%;
 
-  @media (max-width: 400px) {
+  @media (max-width: 500px) {
     p {
       font-size: 20px;
       color: #aaa;

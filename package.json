@@ -1,7 +1,8 @@
 {
   "name": "cafe-dif",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "main": "index.js",
   "dependencies": {
     "babel-eslint": "^10.0.3",
     "polished": "^3.4.1",
@@ -19,6 +20,11 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleodoni/cafe-dif.git"
+  },
+  "homepage": "https://aleodoni.github.io/cafe-dif",
   "eslintConfig": {
     "extends": "react-app"
   },

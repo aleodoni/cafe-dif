@@ -9,7 +9,7 @@ export const Container = styled.div`
 
   height: 100%;
 
-  @media (max-width: 400px) {
+  @media (max-width: 500px) {
     p {
       font-size: 20px;
       padding-top: 20px;
@@ -24,7 +24,7 @@ export const Container = styled.div`
       justify-content: space-between;
       align-items: baseline;
 
-      font-size: 20px;
+      font-size: 16px;
       padding-bottom: 10px;
       color: #aaa;
       width: 100%;
@@ -34,7 +34,7 @@ export const Container = styled.div`
   @media (min-width: 900px) {
     p {
       font-size: 40px;
-      padding-top: 20px;
+      padding-top: 16px;
       padding-bottom: 40px;
       color: #aaa;
       width: 100%;

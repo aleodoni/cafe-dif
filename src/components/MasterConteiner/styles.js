@@ -35,7 +35,7 @@ export const MasterContainer = styled.div`
 
         &:hover {
           cursor: pointer;
-          background-color: ${lighten(0.01, '#5F2B0E')};
+          background-color: ${lighten(0.01, '#AB4A05')};
           color: #000;
           transition: background 0.3s;
         }
@@ -59,7 +59,7 @@ export const MasterContainer = styled.div`
 
         &:hover {
           cursor: pointer;
-          background-color: ${lighten(0.01, '#5F2B0E')};
+          background-color: ${lighten(0.1, '#AB4A05')};
           color: #000;
           transition: background 0.3s;
         }

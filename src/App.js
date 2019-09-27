@@ -37,12 +37,29 @@ class App extends Component {
   };
 
   render() {
+    const { op } = this.state;
+
     return (
       <MasterContainer>
         <div className="menu">
-          <span onClick={() => this.handleOpt(0)}>CUMA ?</span>
-          <span onClick={() => this.handleOpt(1)}>QUAL ?</span>
-          <span onClick={() => this.handleOpt(2)}>QUEM ?</span>
+          <span
+            onClick={() => this.handleOpt(0)}
+            className={op === 0 ? 'selected' : null}
+          >
+            CUMA ?
+          </span>
+          <span
+            onClick={() => this.handleOpt(1)}
+            className={op === 1 ? 'selected' : null}
+          >
+            QUAL ?
+          </span>
+          <span
+            onClick={() => this.handleOpt(2)}
+            className={op === 2 ? 'selected' : null}
+          >
+            QUEM ?
+          </span>
         </div>
         <div className="conteudo">{this.retConteudo()}</div>
         <GlobalStyle />

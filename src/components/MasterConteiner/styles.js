@@ -39,6 +39,10 @@ export const MasterContainer = styled.div`
           color: #000;
           transition: background 0.3s;
         }
+        &.selected {
+          background-color: ${lighten(0.01, '#AB4A05')};
+          color: #000;
+        }
       }
     }
 
@@ -62,6 +66,11 @@ export const MasterContainer = styled.div`
           background-color: ${lighten(0.1, '#AB4A05')};
           color: #000;
           transition: background 0.3s;
+        }
+
+        &.selected {
+          background-color: ${lighten(0.01, '#AB4A05')};
+          color: #000;
         }
       }
     }

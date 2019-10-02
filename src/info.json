@@ -14,6 +14,11 @@
       "nome": "Diego",
       "quantidade": 2,
       "cafe": "Melitta Sabor da Fazenda"
+    },
+    {
+      "nome": "Bruno",
+      "quantidade": 2,
+      "cafe": "Melitão da Fazenda"
     }
   ],
   "cuma": [

@@ -1,7 +1,6 @@
 import React from 'react';
 
 import { Container } from './styles';
-import didi from '../../assets/didi.jpeg';
 
 export default function Inicio({ data }) {
   return (

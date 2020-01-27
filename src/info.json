@@ -1,37 +1,12 @@
 {
   "contribuintes": [
     {
-      "nome": "Alexandre",
-      "quantidade": 2,
-      "cafe": "Melitta Tradicional"
-    },
-    {
-      "nome": "Carlos",
+      "nome": "Ewerton",
       "quantidade": 2,
       "cafe": "Melitta Sabor da Fazenda"
     },
     {
       "nome": "Diego",
-      "quantidade": 2,
-      "cafe": "Melitta Sabor da Fazenda"
-    },
-    {
-      "nome": "Bruno",
-      "quantidade": 2,
-      "cafe": "Melitão da Fazenda"
-    },
-    {
-      "nome": "Antonio",
-      "quantidade": 2,
-      "cafe": "Melitta Sabor da Fazenda"
-    },
-    {
-      "nome": "Deini",
-      "quantidade": 2,
-      "cafe": "Melitta Sabor da Fazenda"
-    },
-    {
-      "nome": "Rodrigo",
       "quantidade": 2,
       "cafe": "Melitta Sabor da Fazenda"
     }

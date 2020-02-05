@@ -9,6 +9,11 @@
       "nome": "Diego",
       "quantidade": 2,
       "cafe": "Melitta Sabor da Fazenda"
+    },
+    {
+      "nome": "Antonio",
+      "quantidade": 2,
+      "cafe": "Melitta Extra Forte"
     }
   ],
   "cuma": [

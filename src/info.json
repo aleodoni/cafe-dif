@@ -19,6 +19,16 @@
       "nome": "Antônio",
       "quantidade": 2,
       "cafe": "Melitta Sabor da Fazenda"
+    },
+    {
+      "nome": "Bruno",
+      "quantidade": 2,
+      "cafe": "Melittão da Fazenda"
+    },
+    {
+      "nome": "Tarsa",
+      "quantidade": 1,
+      "cafe": "Melittão da Fazenda"
     }
   ],
   "cuma": [
